@@ -8,6 +8,7 @@
 git clone https://github.com/flolau2k/Simple-Ubuntu simple_ubuntu
 cd simple_ubuntu
 chmod +x start.sh
+./start.sh
 ```
 Wait for everything to install. First time it takes a bit if time.
 

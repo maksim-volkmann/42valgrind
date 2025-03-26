@@ -10,7 +10,7 @@ cd simple_ubuntu
 chmod +x start.sh
 ./start.sh
 ```
-Wait for everything to install. First time it takes a bit if time.
+Wait for everything to install. First time it takes a bit of time.
 
 ## Step 2 - Alias:
 Go to your home directory and create alias to run the miniubuntu from any project directory.
